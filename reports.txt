@@ -1,0 +1,4 @@
+accident;Raul;22;22;true
+blocak;Mark;14;12;true
+11;Deni;11;11;false
+12;Mark;12;12;false
